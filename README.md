@@ -1,4 +1,4 @@
-# <img src="https://media1.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif?cid=ecf05e471jwnuf20kl8ua3stx1mk6pxz3m9lzfd9tolhufy2&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="35%" height="30%" align="center">
+# <img src="https://media1.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif?cid=ecf05e471jwnuf20kl8ua3stx1mk6pxz3m9lzfd9tolhufy2&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="38%" height="30%" align="center">
 <br><br>
 [![Twitter](https://img.shields.io/twitter/follow/your-twitter-handle?style=social)](https://twitter.com/your-twitter-handle)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/your-linkedin-profile)
