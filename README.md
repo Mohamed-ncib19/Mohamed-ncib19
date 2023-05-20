@@ -1,28 +1,12 @@
 # <p align="center"><img src="https://media1.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif?cid=ecf05e471jwnuf20kl8ua3stx1mk6pxz3m9lzfd9tolhufy2&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="38%" height="30%" align="center"></p>
 
-(https://twitter.com/Mohamed__ncib)
+[![Twitter]()](https://twitter.com/Mohamed__ncib)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/mohamed-ncib-1b17b5224/)
 
 
 Hello Wrold , i'm Mohamed Ncib computer science student 
 ## 🚀 Projects
 
-### Project 1 - MyProject
-- **Description:** This project is a web application that helps users track their daily tasks. It is built using React and utilizes Firebase for data storage.
-- **GitHub Repository:** [Link](https://github.com/your-username/MyProject)
-- **Live Demo:** [Link](https://your-username.github.io/MyProject-demo)
-- **Screenshot:** ![MyProject Screenshot](images/myproject_screenshot.png)
-
-### Project 2 - AnotherProject
-- **Description:** AnotherProject is a mobile app designed to streamline communication within teams. It is built with Flutter and integrates with Firebase for real-time messaging.
-- **GitHub Repository:** [Link](https://github.com/your-username/AnotherProject)
-- **Live Demo:** [Link](https://your-username.github.io/AnotherProject-demo)
-- **Screenshot:** ![AnotherProject Screenshot](images/anotherproject_screenshot.png)
-
-### Project 3 - AwesomeTool
-- **Description:** AwesomeTool is a command-line utility that automates repetitive tasks. It is written in Python and leverages third-party libraries for enhanced functionality.
-- **GitHub Repository:** [Link](https://github.com/your-username/AwesomeTool)
-- **Screenshot:** ![AwesomeTool Screenshot](images/awesometool_screenshot.png)
 
 ## 💻 Skills
 
