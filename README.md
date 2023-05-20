@@ -1,16 +1,31 @@
-### Hi there 👋
+# README Profile
 
-<!--
-**Mohamed-ncib19/Mohamed-ncib19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello world 
 
-Here are some ideas to get you started:
+im a computer science student / web developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Table of Contents
+- [Introduction](#introduction)
+- [Projects](#projects)
+- [Skills](#skills)
+- [Contact](#contact)
+- [License](#license)
+
+
+
+## Skills
+Highlight your skills and areas of expertise. You can mention programming languages, frameworks, tools, or any other relevant skills. Feel free to use bullet points or subsections to organize your skills.
+
+Example:
+- Programming Languages: JavaScript, Python, Java , C , C++ , 
+- Web Development: HTML, CSS, React, Tailwind , PHP
+- Databases: SQL, oracle , firebase
+- Tools: Git, Github
+
+
+Example:
+- Twitter: [@Mohamed__ncib](https://twitter.com/Mohamed__ncib)
+- LinkedIn: [Mohamed Ncib](https://www.linkedin.com/in/mohamed-ncib-1b17b5224/)
+
+
+
