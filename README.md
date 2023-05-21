@@ -1,4 +1,4 @@
-# <p align="center"><img src="https://i.ibb.co/YPbL3Hy/hello-World.gif" width="40%" height="30%" align="center"></p>
+# <p align="center"><img src="https://i.ibb.co/YPbL3Hy/hello-World.gif" width="50%" height="30%" align="center"></p>
 
 [![Twitter]()](https://twitter.com/Mohamed__ncib)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/mohamed-ncib-1b17b5224/)
