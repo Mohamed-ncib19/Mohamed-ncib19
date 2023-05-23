@@ -4,7 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/mohamed-ncib-1b17b5224/)
 
 
-<h1>Hello Wrold , i'm Mohamed Ncib computer science student | web developer and web designer</h1> 
+<h1 align="center">Hello Wrold , i'm Mohamed Ncib computer science student | web developer and web designer</h1> 
 
 
 ## 💻 Skills
