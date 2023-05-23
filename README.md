@@ -1,4 +1,5 @@
 # <p align="center"><img src="https://i.ibb.co/YPbL3Hy/hello-World.gif" width="50%" height="30%" align="center"></p>
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&text=capsule%20render&fontSize=90)
 
 
 <h1 align="center" style="color:purple;">Hello Wrold , i'm Mohamed Ncib computer science student | web developer and web designer</h1>
