@@ -1,5 +1,6 @@
 # <p align="center"><img src="https://i.ibb.co/YPbL3Hy/hello-World.gif" width="50%" height="30%" align="center"></p>
 <span style="color: red;" align="center">Hello Wrold , i'm Mohamed Ncib computer science student | web developer and web designer</span>
+<span style="color: red;">This text will be red.</span>
 
 
 ## 💻 Skills
