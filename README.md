@@ -1,5 +1,5 @@
 # <p align="center"><img src="https://i.ibb.co/YPbL3Hy/hello-World.gif" width="60%" height="10%" align="center"></p>
-<h2 align="center">Hello Wrold , i'm Mohamed Ncib computer science student | web developer and web designer</h2>
+<h2 align="center">Hello World! I'm Mohamed Ncib, a Computer Science student | Web Developer and Web Designer</h2>
 
 ## 💻 Skills
 
@@ -21,14 +21,12 @@
 
 ## 📚 Education
 
-- Bachelor's degree in Computer Science from ESSTHS 
+- Bachelor's degree in Computer Science from ESSTHS
 
 ## 📫 Contact
 
-You can get in touch with me through the following channels:
-
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Mohamed__ncib)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-ncib-1b17b5224/)
-[![Email](https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:mohamedncib900@gmail.com)
-
-
+<div align="center">
+  <a href="https://twitter.com/Mohamed__ncib"><img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/mohamed-ncib-1b17b5224/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:mohamedncib900@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=mail.ru&logoColor=white"></a>
+</div>
