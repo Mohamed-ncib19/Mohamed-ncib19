@@ -1,8 +1,12 @@
 # <p align="center"><img src="https://i.ibb.co/YPbL3Hy/hello-World.gif" width="50%" height="30%" align="center"></p>
 
 
-<h1 align="center" style="color:purple;">Hello Wrold , i'm Mohamed Ncib computer science student | web developer and web designer</h1>
-
+<h1 align="center" id="title">Hello Wrold , i'm Mohamed Ncib computer science student | web developer and web designer</h1>
+<style>
+  #title{
+  color:purple;
+  }
+ </style>
 
 ## 💻 Skills
 
