@@ -1,4 +1,4 @@
-# <p align="center"><img src="https://i.ibb.co/YPbL3Hy/hello-World.gif" width="45%" height="30%" align="center"></p>
+# <p align="center"><img src="https://i.ibb.co/YPbL3Hy/hello-World.gif" width="60%" height="10%" align="center"></p>
 <h2 align="center">Hello Wrold , i'm Mohamed Ncib computer science student | web developer and web designer</h2>
 
 ## 💻 Skills
