@@ -25,7 +25,7 @@
 
 ## 📫 Contact
 
-You can find more information about my work and get in touch with me through the following channels:
+You can get in touch with me through the following channels:
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Mohamed__ncib)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-ncib-1b17b5224/)
