@@ -18,6 +18,10 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="WordPress" width="100" height="100">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="SQL" width="100" height="100">
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="100" height="100">
+  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" alt="Firebase" width="100" height="100">
+  <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="Firebase" width="100" height="100">
+  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="Firebase" width="100" height="100">
+  
 </div>
 
 ## 📚 Education
